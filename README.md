@@ -1,2 +1,1 @@
-# zinc
-zinc
+![](simple.png)
